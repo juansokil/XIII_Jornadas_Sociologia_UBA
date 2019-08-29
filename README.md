@@ -29,6 +29,8 @@ AgePrediction y GenderPrediction: Utilizan Utilizan una red vgg preentrenada par
 Image Classification: Permite clasificar una imagen a partir de distintas categorias de respuesta.
 
 
+## Resultados
+
 Ver la presentación:
 
 https://github.com/juansokil/XIII_Jornadas_Sociologia_UBA/blob/master/Presentacion.pdf
